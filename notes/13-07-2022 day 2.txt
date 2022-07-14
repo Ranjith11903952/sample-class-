@@ -1,0 +1,32 @@
+this class is about the git branching system 
+it also have the some basic and usefull commands to perfom the branching system 
+git branch -----it helps to show the git branch where currently now
+git branch name of new branch ----it's helps to create the new branch to the git 
+git checkout name of new brach -------to switch the branch from master to sub 
+
+
+ we did the same process as day 1 class that is adding file to the new branch
+  git add name of new file
+  git commit -m "name of new file "
+  git push origin name of new branch 
+  
+  
+the new file add to the new branch  
+ because the master branch is not able to add changes because it may damage the master code
+ so we add code to the new branc after adding the changes we merge to the master after all changes 
+ 
+we made changes the code of new branch through online
+ from this we will goint to learn the fetch data to the local folder or local repo's 
+ we will use 
+ git fetch ------ it shows the how much of data is modified in central repo's 
+ git pull origin name -----to pull the data from the central repo's 
+
+we have to merge the data or files from the new brach to master branch by the process 
+pull request ---- compare&pull request --- Merge pull request ---request--- cofrim merge 
+
+again we have to check the master brach to check the repo's 
+for that we done the same process 
+git checkout master
+git pull master
+ done .......
+   
